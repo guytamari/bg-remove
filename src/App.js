@@ -1,4 +1,3 @@
-// import logo from "./logo.svg";
 import Bg from "./Bg.js";
 function App() {
   return (
